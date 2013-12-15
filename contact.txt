@@ -1,0 +1,22 @@
+<html>
+<head>
+<title> Nous contacter </title>
+<LINK rel=STYLESHEET href="styleservice.css" type="text/css">
+<body>
+
+ <BODY background="technologiess.jpg">
+
+<!-- Contenu principal -->
+<body> <bold> <FONT SIZE=5> PPE Groupe 6 - Lycée privée Charles de foucauld </bold>
+
+</body>
+<div class=contenu>
+<BR>
+
+<img src=banniere.jpg alt=titre/>
+<div class="nav">
+<font size=5> <center>Comment nous contacter?:</font></center>
+<center> <BR>Par téléphone au 0148454845 de 9h à 12h et de 13h à 18h
+<P>par Email à l'adresse suivante: maisondesligues@dispostable.com nous essayerons de vous répondre dans les plus bref délais 
+<P>Par courrier à l'adresse suivante: 48 rue de la maison d'Elise 54320 Bidonville
+<P>En venant directement à nos locaux qui sont ouvert tout les jours de la semaine du lundi au vendredi de 9h à 19h </center>
